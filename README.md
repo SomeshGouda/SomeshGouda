@@ -22,12 +22,14 @@
 ## 🎬 Youtube Edit Playlist
 
 <div align="center">
-  <a href="https://youtube.com/playlist?list=PLRcB2bumlhXlsXpLSgAgP47S75s9EeJ3q">
-    <img src="https://i.ytimg.com/pl_c/PLRcB2bumlhXlsXpLSgAgP47S75s9EeJ3q/studio_square_thumbnail.jpg?sqp=CIS6zcgG-oaymwEICKoDEPABSFqi85f_AwYIoY3IxwY=&rs=AOn4CLDBkchckd0C1by-Dw-Q3T5Fkeyjng" 
-         width="70%" alt="My Youtube Edit Playlist Thumbnail" />
+  <a href="https://youtube.com/playlist?list=PLRcB2bumlhXlsXpLSgAgP47S75s9EeJ3q" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" 
+         width="120" alt="YouTube Playlist Link" />
   </a>
+  <br>
+  🎥 <b>Click the YouTube icon to watch my full edited playlist</b>
+</div>
 
-  <br><br>
   
   🎯 **[Watch Full Edited Playlist Here](https://youtube.com/playlist?list=PLRcB2bumlhXlsXpLSgAgP47S75s9EeJ3q)**  
 
