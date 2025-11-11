@@ -71,7 +71,21 @@
   <!-- Power BI -->
   <img src="https://img.icons8.com/fluency/48/power-bi.png" width="50" height="50" alt="Power BI"/>
 
-  <!-- Ca
+  <!-- Canva -->
+  <img src="https://img.icons8.com/fluency/48/canva.png" width="50" height="50" alt="Canva"/>
+
+  <!-- CapCut -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/CapCut_Logo.png/512px-CapCut_Logo.png" width="50" height="50" alt="CapCut"/>
+
+  <!-- Alight Motion -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Alight_Motion_logo.png" width="50" height="50" alt="Alight Motion"/>
+
+  <!-- C -->
+  <img src="https://img.icons8.com/color/48/c-programming.png" width="50" height="50" alt="C"/>
+
+  <!-- C++ -->
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" width="50" height="50" alt="C++"/>
+</p>
 
 
 ---
