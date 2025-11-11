@@ -67,11 +67,13 @@
   <!-- C++ -->
   <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" width="50" height="50" alt="C++"/>
 </p>
-
+<!-- 
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Someshkumar09&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
+-->
+
 
 ---
 
