@@ -32,10 +32,10 @@
 
 <div align="center">
 
+  
   👆
   <br>
-
-  🎯 <b><a href="https://youtube.com/playlist?list=PLRcB2bumlhXlsXpLSgAgP47S75s9EeJ3q" target="_blank">
+ 🎯 <b><a href="https://youtube.com/playlist?list=PLRcB2bumlhXlsXpLSgAgP47S75s9EeJ3q" target="_blank">
   Watch Full Edited Playlist Here
   </a></b>
 
