@@ -38,25 +38,22 @@
 <p align="center">
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />
-  
+
   <!-- SQL -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="SQL" />
-  
+
   <!-- Excel -->
   <img src="https://img.icons8.com/fluency/48/microsoft-excel-2019.png" width="50" height="50" alt="Excel" />
-  
+
   <!-- Power BI -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50" height="50" alt="Power BI" />
-  
-  <!-- Canva -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" width="50" height="50" alt="Canva" />
-  
-  <!-- Alight Motion -->
-  <img src="https://seeklogo.com/images/A/alight-motion-logo-70EFB36643-seeklogo.com.png" width="50" height="50" alt="Alight Motion" />
-  
+
+  <!-- Canva (fixed working link) -->
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-canva-3521532-2945020.png" width="50" height="50" alt="Canva" />
+
   <!-- C -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C" />
-  
+
   <!-- C++ -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++" />
 </p>
