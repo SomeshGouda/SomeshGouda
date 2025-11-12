@@ -89,7 +89,7 @@
   </a>
 
   <!-- GitHub -->
-  <a href="https://github.com/Someshkumar09" target="_blank">
+  <a href="https://github.com/SomeshGouda" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Someshkumar09-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
