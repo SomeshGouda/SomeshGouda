@@ -6,7 +6,7 @@
 
 <p align="center">
   🚀 Engineering | 💻 Data Enthusiast | 🎥 YouTuber <br>
-  <!Sharing projects, tutorials & real-world data insights.
+  <!-- Sharing projects, tutorials & real-world data insights. -->
 </p>
 
 ---
@@ -14,11 +14,12 @@
 ## 🌟 About Me
 - 🧠 Passionate about **Data Analysis & Automation**
 - ⚙️ Skilled in **SQL, Excel, Power BI & Python**
+- 🎓 BCA Graduate | Currently pursuing **MCA** at Khallikote Unitary University, Berhampur
 - 🎯 Love building dashboards, automating reports, and exploring data stories.
 - 🎥 Running my own YouTube channel — [**Dynamo Logout YT**](https://www.youtube.com/@DynamoLogoutYT)
 
 - 💼 LinkedIn Profile
-<p align="center"> <a href="[https://www.linkedin.com/in/someshkumar09](https://img.shields.io/badge/LinkedIn-Somesh_Gouda-0077B5)" target="_blank"> <img src="https://img.icons8.com/color/96/linkedin.png" alt="LinkedIn Profile" width="80" height="80"/> </a> </p> <p align="center"> <b>Click the LinkedIn icon to visit my professional profile</b> 💼 </p> <p align="center"> 🔗 <a href="https://www.linkedin.com/in/someshkumar09" target="_blank">Visit My LinkedIn Profile</a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/somesh-gouda-1020a432b/" target="_blank"> <img src="https://img.icons8.com/color/96/linkedin.png" alt="LinkedIn Profile" width="80" height="80"/> </a> </p> <p align="center"> <b>Click the LinkedIn icon to visit my professional profile</b> 💼 </p> <p align="center"> 🔗 <a href="https://www.linkedin.com/in/somesh-gouda-1020a432b/" target="_blank">Visit My LinkedIn Profile</a> </p>
 
 ---
 
@@ -73,7 +74,7 @@
 <!-- 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Someshkumar09&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SomeshGouda&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </p>
 -->
 
